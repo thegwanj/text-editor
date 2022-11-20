@@ -4,6 +4,7 @@
 - [Description](#description)
 - [Usage](#usage)
 - [Links](#links)
+- [Issues](#issues)
 
 ## Description 
 Week 19 challenge where we will use our new knowledge of service workers to create an app that can store and retrieve data even if the user is offline. The following is the user story and acceptance criteria for the project:
@@ -52,3 +53,6 @@ When launched, the user is met with a text editor. They may edit text, which is 
 ## Links
 Heroku App: https://just-another-jate.herokuapp.com/
 GitHub Repo: https://github.com/thegwanj/text-editor
+
+## Issues
+There is a current known issue where the install button will not actually install the app. However, up in the address bar, there is an option to install the app there. Once installed, the app functions as expected.
