@@ -52,6 +52,7 @@ When launched, the user is met with a text editor. They may edit text, which is 
 
 ## Links
 Heroku App: https://just-another-jate.herokuapp.com/
+
 GitHub Repo: https://github.com/thegwanj/text-editor
 
 ## Issues
