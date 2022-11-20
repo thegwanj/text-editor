@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
+- [Links](#links)
 
 ## Description 
 Week 19 challenge where we will use our new knowledge of service workers to create an app that can store and retrieve data even if the user is offline. The following is the user story and acceptance criteria for the project:
@@ -44,3 +45,10 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Usage
+When launched, the user is met with a text editor. They may edit text, which is automatically saved when the user clicks out of the window, or presses the "Install" button. If the user refreshes or exits and comes back to the page, the saved text will come back and the user can pick up where they left off.
+
+## Links
+Heroku App: https://just-another-jate.herokuapp.com/
+GitHub Repo: https://github.com/thegwanj/text-editor
